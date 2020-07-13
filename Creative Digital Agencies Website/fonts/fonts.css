@@ -1,0 +1,40 @@
+/* ===========================Fonts===================== */
+@font-face {
+	font-family: "Gotham-book";
+	src: url(Gotham-book.otf);
+}
+
+@font-face {
+	font-family: "Gotham Medium";
+	src: url(Gotham-medium.otf);
+}
+
+@font-face {
+	font-family: "Gotham-bold";
+	src: url(Gotham bold.otf);
+}
+
+@font-face {
+	font-family: "Myriad Pro";
+	src: url(MyriadPro-Regular.otf);
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(Open Sans.ttf);
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url(Open-sans bold.ttf);
+}
+
+@font-face {
+	font-family: "Roboto Cn";
+	src: url(Roboto bolt Condensed.ttf);
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url(Roboto Regular.ttf);
+}
